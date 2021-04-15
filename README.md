@@ -42,6 +42,7 @@
   <code> <img height="50" src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+  <code> <img height="50" src="https://miro.medium.com/max/661/1*XcE0wR1ZmWLFbdF2dE5WuA.png"> </code>
   <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHf4yKIZcuVLbtXFeF04jz9g0t-GmYuyYKo8tAtIdr53igQ1ugr53teiA_e6Po77aIlHY&usqp=CAU"> </code>
   <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
