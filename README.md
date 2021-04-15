@@ -57,7 +57,6 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1280px-JQuery-Logo.svg.png"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/b00tstrap.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"> </code>
   <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRJukFK6wSzfEca6uBm0wZIkAzK1hjTFZFBRH6thchLH1NvGajC7oiFfuWEP5r4dGqas&usqp=CAU"> </code>
 
 <hr>
