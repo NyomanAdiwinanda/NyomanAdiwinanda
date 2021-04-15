@@ -20,7 +20,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NyomanAdiwinanda&label=Profile%20views&color=0e75b6&style=flat" alt="NyomanAdiwinanda" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=150px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=150px alt="Unicorn" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
