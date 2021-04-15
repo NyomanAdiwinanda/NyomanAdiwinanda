@@ -38,7 +38,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://www.amcharts.com/wp-content/uploads/2016/08/react.png"> </code>
+  <code> <img height="50" src="https://lh3.googleusercontent.com/proxy/CkD_KpEBZ6jzJt3NDr7Wav3UZ1LqCAkFa2ZHKdLMwgzIEpjC4Y1fBi9wnCU4AFB4iZVZYsn6EaUgeZNpWgFYO_1Hw1yrQ87V"> </code>
   <code> <img height="50" src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
