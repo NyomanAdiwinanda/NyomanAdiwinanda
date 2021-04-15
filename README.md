@@ -2,6 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
+<img align="right" width=250px alt="Unicorn" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nyoman Adiwinanda</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
 </p>
@@ -20,8 +21,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NyomanAdiwinanda&label=Profile%20views&color=0e75b6&style=flat" alt="NyomanAdiwinanda" /> </p>
-<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-<img align="right" width=250px alt="Unicorn" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
