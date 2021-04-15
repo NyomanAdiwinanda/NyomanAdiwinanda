@@ -44,6 +44,7 @@
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/firebase.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
