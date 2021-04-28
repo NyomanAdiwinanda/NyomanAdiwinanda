@@ -26,7 +26,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ Javascript is my first programming language and most fluent <br>
+✔ **Javascript** is my first programming language and most fluent <br>
 ✔ I’m currently using **ReactJS** (sometimes **VueJS**) & **NodeJS** <br>
 ✔ I’m ready to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
