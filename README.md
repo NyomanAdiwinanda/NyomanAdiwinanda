@@ -28,7 +28,6 @@
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ **Javascript** is my first programming language and most fluent <br>
 ✔ I’m currently using **ReactJS** (sometimes **VueJS**) & **NodeJS** <br>
-✔ I’m ready to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
