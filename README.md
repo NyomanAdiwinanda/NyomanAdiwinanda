@@ -31,7 +31,7 @@
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
@@ -56,7 +56,7 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1280px-JQuery-Logo.svg.png"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/b00tstrap.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRJukFK6wSzfEca6uBm0wZIkAzK1hjTFZFBRH6thchLH1NvGajC7oiFfuWEP5r4dGqas&usqp=CAU"> </code>
+  <code> <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRJukFK6wSzfEca6uBm0wZIkAzK1hjTFZFBRH6thchLH1NvGajC7oiFfuWEP5r4dGqas&usqp=CAU"> </code> -->
 
 <hr>
 
