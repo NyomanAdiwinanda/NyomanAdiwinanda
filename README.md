@@ -7,8 +7,6 @@
 <h3 align="center">Fullstack Software Engineer</h3>
 </p>
 
-
-
 <p align="center">
   <em>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
@@ -20,8 +18,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+<p align="center">
+  <img width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+</p
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NyomanAdiwinanda&label=Profile%20views&color=0e75b6&style=flat" alt="NyomanAdiwinanda" /> </p>
-<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
