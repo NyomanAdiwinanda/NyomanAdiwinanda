@@ -97,3 +97,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nyoman-adiwinanda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/nyoman-adiwinanda?trk=profile-badge">Nyoman Adiwinanda</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
