@@ -32,8 +32,6 @@
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nyoman-adiwinanda" data-version="v1"><a href="https://id.linkedin.com/in/nyoman-adiwinanda"><img src="https://i.ibb.co/vzxxxNt/Screen-Shot-2022-10-06-at-21-32-10.png" width="360px" alt="Nyoman Adiwinanda LinkedIn" border="0"></a></div>
-
 <!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
