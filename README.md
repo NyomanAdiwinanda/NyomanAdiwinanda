@@ -61,12 +61,6 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Stats***
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NyomanAdiwinanda&count_private=true)
-  
-<hr>
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
