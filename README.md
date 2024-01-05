@@ -26,9 +26,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ **Javascript** is my first programming language and most fluent <br>
-✔ I’m currently using **Go (Programming Language)** for my full-time job<br>
+✔ Learning new stacks throughout the year, currently learn **Elixir & Phoenix** <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
 
